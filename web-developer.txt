@@ -2,5 +2,5 @@ Web Developer
 - Konsisten untuk belajar programming
 - Mulai belajar dari fundamental programming
 - Merapikan jadwal belajar dengan membuat to do list
-- Membuat web application for network automation
 - Kolaborasi dengan para expert
+- Membuat vlog
